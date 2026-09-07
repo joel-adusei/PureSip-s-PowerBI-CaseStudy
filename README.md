@@ -1,4 +1,4 @@
-# SALES PERFORMANCE ANALYSIS
+# Sales Data Integration and Report Automation
 ## Automating Sales Data Integration and Reporting with Power BI Folder Connections
 
  ![image](https://github.com/joel-adusei/PureSip-PowerBI-CaseStudy/blob/main/images/folder%20connection.png?raw=true)
